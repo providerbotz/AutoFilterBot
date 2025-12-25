@@ -6,7 +6,7 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-WORKDIR /Midukki-RoBoT
+WORKDIR /AutoFilterBot   #Add Your Repo Name After Fork If You Not Change Name At Fork Time Then You Not To Change It Otherwise Change..
 
 COPY . .
 
