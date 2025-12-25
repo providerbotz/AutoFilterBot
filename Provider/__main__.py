@@ -12,7 +12,7 @@ logging.basicConfig(
     datefmt='%d-%b-%y %H:%M:%S',
     handlers=[
         RotatingFileHandler(
-            "midukki.txt",
+            "provider.txt",
             maxBytes=50000000,
             backupCount=10
         ),
