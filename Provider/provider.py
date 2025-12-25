@@ -34,7 +34,7 @@ class Midukki_RoboT(Client):
 
         self.LOGGER(__name__).info(f"@{usr_bot_me.username} based on Pyrogram v{__version__} ")
         self.LOGGER(__name__).info(f"(Layer {layer}) started on @{usr_bot_me.username}. ")
-        self.LOGGER(__name__).info("This BoT Created By @Mo_Tech_YT")        
+        self.LOGGER(__name__).info("This BoT Created By @ProviderBhaskar")        
         if Configs.LOG_CHANNEL:
             await self.send_logs(int(Configs.LOG_CHANNEL))
 
@@ -59,7 +59,7 @@ class Midukki_RoboT(Client):
                 yield message
                 current += 1
 
-    async def is_subscribed(self, midukki, bot):
+    async def is_subscribed(self, provider, bot):
         try:
             user = await midukki.get_chat_member(Configs.AUTH_CHANNEL, bot.from_user.id)
         except UserNotParticipant:
