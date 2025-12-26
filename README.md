@@ -1,5 +1,5 @@
 <p align="center">
-<img style="width:100px; height:100px;" src="Pixel/Providerbotz.jpg" alt="Midukki RoBoT Logo">
+<img style="width:100px; height:100px;" src="Pixel/ProviderBotz.jpg" alt="Midukki RoBoT Logo">
 </p>
 
 <h1 align="center">
