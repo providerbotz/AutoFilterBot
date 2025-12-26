@@ -7,42 +7,38 @@
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/PR0FESS0R-99/Midukki-RoBoT?style=for-the-badge&logo=appveyor" alt="LICENSE">
-    <img src="https://img.shields.io/github/contributors/PR0FESS0R-99/Midukki-RoBoT?style=for-the-badge&logo=appveyor" alt="Contributors">
-    <img src="https://img.shields.io/github/repo-size/PR0FESS0R-99/Midukki-RoBoT?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
-    <img src="https://img.shields.io/github/issues/PR0FESS0R-99/Midukki-RoBoT?style=for-the-badge&logo=appveyor" alt="Issues">
-    <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Midukki-RoBoT?style=for-the-badge&logo=appveyor" alt="Forks">
-    <img src="https://img.shields.io/github/stars/PR0FESS0R-99/Midukki-RoBoT?style=for-the-badge&logo=appveyor" alt="Stars">
+    <img src="https://img.shields.io/github/license/providerbotz/AdvanceManagementBot?style=for-the-badge&logo=appveyor" alt="LICENSE">
+    <img src="https://img.shields.io/github/contributors/providerbotz/AdvanceManagementBot?style=for-the-badge&logo=appveyor" alt="Contributors">
+    <img src="https://img.shields.io/github/repo-size/providerbotz/AdvanceManagementBot?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/issues/providerbotz/AdvanceManagementBot?style=for-the-badge&logo=appveyor" alt="Issues">
+    <img src="https://img.shields.io/github/forks/providerbotz/AdvanceManagementBot?style=for-the-badge&logo=appveyor" alt="Forks">
+    <img src="https://img.shields.io/github/stars/providerbotz/AdvanceManagementBot?style=for-the-badge&logo=appveyor" alt="Stars">
 </p>
 
 The Telegram Bot to manage and protect groups
 
-Midukki RoBoT simplifies the management, administration and security of your group
+AdvanceManagementBot simplifies the management auto filter, administration,autofilter and security of your group
 
 ### Credits
 
-- Thanks to [Pyrogram](https://github.com/pyrogram/pyrogram)
+- Thanks to 
+- Thanks To 
 
-- Thanks To [EvamariaTG](https://github.com/EvamariaTG)
+- Thanks To 
+- Thanks To 
+- Thanks To
 
-- Thanks To [CodeXBotz](https://github.com/CodeXBotz)
-
-- Thanks To [SpEcHiDe](https://github.com/SpEcHiDe)
-
-- Thanks To [Mr MKN](https://github.com/MrMKN)
-
-- Thanks To [Mahesh](https://github.com/Mahesh0253)
 
 ### Support
 
-Join Our [Telegram Group](https://t.me/+sv5flNs7yew1OTk1) For Support/Assistance And Our [Channel](https://telegram.dog/Mo_Tech_YT) For Updates.
+Join Our [Telegram Group](https://t.me/providerbotx) For Support/Assistance And Our [Channel](https://telegram.dog/prividerbotz) For Updates.
 
 Report Bugs, Give Feature Requests There..
 Do Fork And Star The Repository If You Liked It.
 
-<a href="https://telegram.dog/Mo_Tech_YT"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Mo-Tech-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<a href="https://telegram.dog/Mo_Tech_Group"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
+<a href="https://telegram.dog/providerbotz"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&logo=telegram&logoColor=black"></a>
+<a href="https://youtube.com/channel/@providerbotz"><img src="https://img.shields.io/badge/Mo-Tech-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<a href="https://telegram.dog/providerbotx"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=black"></a>
 
 ### Features
 
