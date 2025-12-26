@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-<a href="https://telegram.dog/Midukki_Robot">Midukki-RoBoT</a>
+<a href="https://telegram.dog/providerbotz">ProviderBotz</a>
 </h1>
 
 <p align="center">
