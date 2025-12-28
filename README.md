@@ -1,5 +1,5 @@
 <p align="center">
-<img style="width:100px; height:100px;" src="Pixel/ProviderBotz.jpg" alt="Midukki RoBoT Logo">
+<img style="width:100px; height:100px;" src="Pixel/ProviderBotz.jpg" alt="AdvanceManagementBot Logo">
 </p>
 
 <h1 align="center">
@@ -75,7 +75,7 @@ Read this before you start messing up with your edits
 
 • `COLLECTION_NAME` : Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot
 
-• `DATABASE_NAME` : Name of the database in [mongoDB](https://www.mongodb.com/). For more help watch this [video](https://youtu.be/mD9veNL7KoE)
+• `DATABASE_NAME` : Name of the database in [mongoDB](https://www.mongodb.com/). For more help watch this [video](https://youtu.be/)
 
 • `DATABASE_URL` : [mongoDB](https://www.mongodb.com/) URI. Get this value from [mongoDB](https://www.mongodb.com/). For more help watch this [video](https://youtu.be/)
 
