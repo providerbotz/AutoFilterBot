@@ -63,7 +63,7 @@ Read this before you start messing up with your edits
 
 ##### Required Variables
 
-• `ADMINS_ID` : Username or ID of Admin. Separate multiple Admins by space
+• `ADMINS_ID` : Username or ID of Admin. Separate multiple Admins by space `-1234567890 -0987654321`
 
 • `API_ID` : Get this value from [telegram.org](https://my.telegram.org/apps)
 
@@ -71,7 +71,7 @@ Read this before you start messing up with your edits
 
 • `BOT_TOKEN` : Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token
 
-• `CHANNELS` : Username or ID of channel or group. Separate multiple IDs by space
+• `CHANNELS` : Username or ID of channel or group. Separate multiple IDs by space `-1234567890 -0987654321`
 
 • `COLLECTION_NAME` : Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot
 
@@ -79,9 +79,9 @@ Read this before you start messing up with your edits
 
 • `DATABASE_URL` : [mongoDB](https://www.mongodb.com/) URI. Get this value from [mongoDB](https://www.mongodb.com/). For more help watch this [video](https://youtu.be/)
 
-• `FORCE_SUB` : ID of channel. Without subscribing this channel users cannot use Autofilter
+• `FORCE_SUB` : ID of channel. Without subscribing this channel users cannot use Autofilter `-6786956448`
 
-• `GITHUB_USERNAME` Enter Your Github Username `Pr0fess0r-99`
+• `GITHUB_USERNAME` Enter Your Github Username Like Mine `providerbotz`
 
 • `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel
 
