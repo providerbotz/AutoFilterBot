@@ -1,9 +1,9 @@
-from Midukki.midukki import Midukki_RoboT 
-from Midukki.functions.extract_user import extract_user
-from Midukki.functions.extract_time import extract_time
-from Midukki.functions.handlers import Ban
+from Provider.midukki import Midukki_RoboT 
+from Provider.functions.extract_user import extract_user
+from Provider.functions.extract_time import extract_time
+from Provider.functions.handlers import Ban
 
-@Midukki_RoboT.on_message(Ban.a)
+@AdvanceManagementBot.on_message(Ban.a)
 async def ban_user(_, message):
     user_id, user_first_name, _ = extract_user(message)
 
